@@ -1,0 +1,7 @@
+780
+555
+chien
+chat
+lion
+tigre
+zebre

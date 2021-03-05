@@ -1,0 +1,26 @@
+status: 301
+date: Fri, 26 Feb 2021 13:07:05 GMT
+server: mw1353.eqiad.wmnet
+x-content-type-options: nosniff
+p3p: CP="See https://fr.wikipedia.org/wiki/Special:CentralAutoLogin/P3P for more info."
+vary: Accept-Encoding,X-Forwarded-Proto,Cookie,Authorization
+x-request-id: YDjyedAiMY1xOAxCGjStTAAAARI
+last-modified: Fri, 26 Feb 2021 13:07:05 GMT
+location: https://fr.wikipedia.org/wiki/Kruder_und_Dorfmeister
+content-length: 0
+content-type: text/html; charset=utf-8
+age: 0
+x-cache: cp3058 miss, cp3062 miss
+x-cache-status: miss
+server-timing: cache;desc="miss"
+strict-transport-security: max-age=106384710; includeSubDomains; preload
+report-to: { "group": "wm_nel", "max_age": 86400, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+nel: { "report_to": "wm_nel", "max_age": 86400, "failure_fraction": 0.05, "success_fraction": 0.0}
+set-cookie: WMF-Last-Access=26-Feb-2021;Path=/;HttpOnly;secure;Expires=Tue, 30 Mar 2021 12:00:00 GMT, WMF-Last-Access-Global=26-Feb-2021;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Tue, 30 Mar 2021 12:00:00 GMT, GeoIP=FR:IDF:Jouars-Pontchartrain:48.79:1.90:v4; Path=/; secure; Domain=.wikipedia.org
+x-client-ip: 2001:861:4282:2160:5994:445f:b041:31b8
+cache-control: private, s-maxage=0, max-age=0, must-revalidate
+connection: keep-alive
+-x-permanent-redirect-url: https://fr.wikipedia.org/wiki/Kruder_und_Dorfmeister
+content-location: https://fr.wikipedia.org/wiki/Kruder%20und%20Dorfmeister
+-varied-accept-encoding: gzip, deflate
+

@@ -1,0 +1,15 @@
+status: 301
+date: Fri, 26 Feb 2021 13:07:05 GMT
+server: Varnish
+x-varnish: 423172250
+x-cache: cp3058 int
+x-cache-status: int-front
+server-timing: cache;desc="int-front"
+set-cookie: WMF-Last-Access=26-Feb-2021;Path=/;HttpOnly;secure;Expires=Tue, 30 Mar 2021 12:00:00 GMT, WMF-Last-Access-Global=26-Feb-2021;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Tue, 30 Mar 2021 12:00:00 GMT
+x-client-ip: 2001:861:4282:2160:5994:445f:b041:31b8
+location: https://fr.wikipedia.org/wiki/Kruder%20und%20Dorfmeister
+content-length: 0
+connection: keep-alive
+-x-permanent-redirect-url: https://fr.wikipedia.org/wiki/Kruder%20und%20Dorfmeister
+content-location: http://fr.wikipedia.org/wiki/Kruder%20und%20Dorfmeister
+

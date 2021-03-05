@@ -8,8 +8,8 @@ random_damage = 0
 
 print("\n LE COMBAT COMMENCE !!! ;-)")
 
-joueur1 = input("joueur1 choisissez votre pseudo : \n")
-joueur2 = input("joueur2 choisissez votre pseudo : \n")
+joueur1 = input("joueur1 choisissez votre super pseudo : \n")
+joueur2 = input("joueur2 choisissez votre ragnar pseudo : \n")
 
 
 # 1ere attaque
